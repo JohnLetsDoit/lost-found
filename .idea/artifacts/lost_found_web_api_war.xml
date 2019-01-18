@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lost-found-web-api:war">
+    <output-path>$PROJECT_DIR$/lost-found-web-api/target</output-path>
+    <root id="archive" name="lost-found-web-api-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lost-found-web-api:war exploded" />
+    </root>
+  </artifact>
+</component>
